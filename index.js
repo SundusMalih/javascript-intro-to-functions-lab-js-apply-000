@@ -1,4 +1,4 @@
 Function shout(String) {
   return
-  String.toUpperCase()
+  String.toUpperCase(hello);
 } 
